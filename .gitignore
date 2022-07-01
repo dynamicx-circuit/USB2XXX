@@ -4,4 +4,4 @@
 *.zip
 
 fp-info-cache
-*.prl
+*.kicad_prl

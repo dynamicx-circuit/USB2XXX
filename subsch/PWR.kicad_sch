@@ -703,7 +703,7 @@
     (property "Reference" "D7" (at 168.0015 75.438 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "BV05C" (at 172.466 76.708 90)
+    (property "Value" "BV03C" (at 172.466 76.708 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (at 168.91 77.47 0)
